@@ -12,4 +12,4 @@ Detecção de fraude em cartão de crédito.
 - TensorFlow
 
 ## Autor
-Miguel Lima
+Miguel Lima da Silva RM 565141
